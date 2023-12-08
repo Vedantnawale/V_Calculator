@@ -1,0 +1,51 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family:"Shantell Sans";
+    background-color: rgb(150, 191, 231);
+}
+  .button{
+    width: 60px;
+    height: 50px;
+    margin: 0 3px;
+    font-size: 15px;
+    border: 2px solid white;
+    border-radius: 10px 8px;
+    cursor: pointer;
+    font-weight: 800;
+    background-color: rgb(148, 193, 223);
+    font-family:"Shantell Sans";
+  }
+  .row{
+    margin: 8px 0px;
+  }
+  .row-1 button {
+    background-color: rgb(148, 193, 223);
+    opacity: 1;
+    color: rgb(13, 92, 144);
+
+  }
+  .row input{
+    font-size: 27px;
+    margin: 0;
+    padding: 17px 15px;
+    border: 2px solid white;
+    background-color: rgb(150, 191, 231);
+    border-radius: 10px;
+    
+  }
+  #enter{
+    width: 130px;
+    height:50px;
+    background-color: rgb(13, 92, 144);
+    opacity: 0.8;
+    color: white
+  }
+  #multi , #divi,#percent,#root,#stop,#sqr,#plus,#minus{
+    color: rgb(13, 92, 144);
+  }
+  marquee{
+    color: red;
+    font-size:10px;
+  }
+  
